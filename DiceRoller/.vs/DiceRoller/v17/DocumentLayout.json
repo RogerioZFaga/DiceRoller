@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\pifadozan\\PAM-I\\projetos do professor\\DiceRoller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25090328-06E8-4A7F-94B5-CEE908851AD8}|DiceRoller\\DiceRoller.csproj|f:\\pifadozan\\pam-i\\projetos do professor\\diceroller\\diceroller\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25090328-06E8-4A7F-94B5-CEE908851AD8}|DiceRoller\\DiceRoller.csproj|solutionrelative:diceroller\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25090328-06E8-4A7F-94B5-CEE908851AD8}|DiceRoller\\DiceRoller.csproj|f:\\pifadozan\\pam-i\\projetos do professor\\diceroller\\diceroller\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25090328-06E8-4A7F-94B5-CEE908851AD8}|DiceRoller\\DiceRoller.csproj|solutionrelative:diceroller\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25090328-06E8-4A7F-94B5-CEE908851AD8}|DiceRoller\\DiceRoller.csproj|f:\\pifadozan\\pam-i\\projetos do professor\\diceroller\\diceroller\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25090328-06E8-4A7F-94B5-CEE908851AD8}|DiceRoller\\DiceRoller.csproj|solutionrelative:diceroller\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25090328-06E8-4A7F-94B5-CEE908851AD8}|DiceRoller\\DiceRoller.csproj|f:\\pifadozan\\pam-i\\projetos do professor\\diceroller\\diceroller\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25090328-06E8-4A7F-94B5-CEE908851AD8}|DiceRoller\\DiceRoller.csproj|solutionrelative:diceroller\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "F:\\pifadozan\\PAM-I\\projetos do professor\\DiceRoller\\DiceRoller\\AppShell.xaml",
+              "RelativeDocumentMoniker": "DiceRoller\\AppShell.xaml",
+              "ToolTip": "F:\\pifadozan\\PAM-I\\projetos do professor\\DiceRoller\\DiceRoller\\AppShell.xaml",
+              "RelativeToolTip": "DiceRoller\\AppShell.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T18:15:04.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "F:\\pifadozan\\PAM-I\\projetos do professor\\DiceRoller\\DiceRoller\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "DiceRoller\\AppShell.xaml.cs",
+              "ToolTip": "F:\\pifadozan\\PAM-I\\projetos do professor\\DiceRoller\\DiceRoller\\AppShell.xaml.cs",
+              "RelativeToolTip": "DiceRoller\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:15:05.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "F:\\pifadozan\\PAM-I\\projetos do professor\\DiceRoller\\DiceRoller\\MainPage.xaml",
+              "RelativeDocumentMoniker": "DiceRoller\\MainPage.xaml",
+              "ToolTip": "F:\\pifadozan\\PAM-I\\projetos do professor\\DiceRoller\\DiceRoller\\MainPage.xaml",
+              "RelativeToolTip": "DiceRoller\\MainPage.xaml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T18:15:05.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "F:\\pifadozan\\PAM-I\\projetos do professor\\DiceRoller\\DiceRoller\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "DiceRoller\\MainPage.xaml.cs",
+              "ToolTip": "F:\\pifadozan\\PAM-I\\projetos do professor\\DiceRoller\\DiceRoller\\MainPage.xaml.cs",
+              "RelativeToolTip": "DiceRoller\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:15:05.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
